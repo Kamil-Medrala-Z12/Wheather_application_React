@@ -19,7 +19,7 @@ Currently, two official plugins are available:
 "# Wheather_application_React" 
 ![Zrzut ekranu 2023-09-18 174035](https://github.com/Kamil-Medrala-Z12/Wheather_application_React/assets/42354098/a6d937b3-2911-4d5b-8c3d-20f2747ea303)
 
-Application features
+# Application features
 The "WeatherNow" app offers many useful features, including:
 
 Location search: You can enter the name of the location you are interested in or its geographical coordinates, and the application will show current weather data for that place.
