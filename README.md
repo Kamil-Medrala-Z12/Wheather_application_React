@@ -21,8 +21,8 @@ Currently, two official plugins are available:
 
 # Launching the project locally
 
-# cd path/to/the/where/dowloaded
+1. cd path/to/the/where/dowloaded
 
-# npm install 
+2. npm install 
 
-# npm run dev
+3. npm run dev
