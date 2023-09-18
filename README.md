@@ -18,3 +18,11 @@ Currently, two official plugins are available:
 "# Wheather_application_React" 
 "# Wheather_application_React" 
 ![Zrzut ekranu 2023-09-18 174035](https://github.com/Kamil-Medrala-Z12/Wheather_application_React/assets/42354098/a6d937b3-2911-4d5b-8c3d-20f2747ea303)
+
+# Launching the project locally
+
+# cd path/to/the/where/dowloaded
+
+# npm install 
+
+# npm run dev
