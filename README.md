@@ -8,3 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 "# Wheather_application_React" 
 "# Wheather_application_React" 
+![Zrzut ekranu 2023-09-18 174035](https://github.com/Kamil-Medrala-Z12/Wheather_application_React/assets/42354098/a6d937b3-2911-4d5b-8c3d-20f2747ea303)
