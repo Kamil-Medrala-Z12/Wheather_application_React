@@ -1,3 +1,5 @@
+# Wheather_application_React
+
 Introduction
 Weather Application "Wheather_application_React" is a web application that allows users to check the current weather anywhere in the world. 
 The application provides detailed information on temperature, humidity, wind speed, precipitation and weather forecast for the next few days.
